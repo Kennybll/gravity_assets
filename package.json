@@ -1,0 +1,16 @@
+{
+  "name": "karmajs_sandbox",
+  "version": "1.0.0",
+  "description": "",
+  "main": "generate_keys_by_brainkey.js",
+  "dependencies": {
+    "karmajs": "^0.2.48",
+    "karmajs-ws": "^0.1.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
