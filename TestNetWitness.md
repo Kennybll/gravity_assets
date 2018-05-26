@@ -24,6 +24,7 @@ Follow [these](https://github.com/Kennybll/gravity_assets#generate_keys_by_brain
 set_password somehardpassword
 unlock somehardpassword
 import_key "accountName like g9320b3400s1180y4450" privateKeyStartingWithZGV
+upgrade_account "accountName like g9320b3400s1180y4450" true
 create_witness "accountName like g9320b3400s1180y4450" "https://<url-to-proposal>" true
 get_witness ""accountName like g9320b3400s1180y4450"
 ```
