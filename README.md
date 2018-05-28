@@ -1,5 +1,8 @@
 # Gravity Protocol Assets/Helpers
 
+## Setting Up A Witness Node
+[Instructions](https://github.com/Kennybll/gravity_assets/blob/master/TestNetWitness.md)
+
 ## generate_keys_by_brainkey.js
 > This file helps figure out your private and public keys for Gravity Protocal using your Brainkey.
 
